@@ -109,7 +109,7 @@
     "syslog": "meshcentral",
     "syslogauth": "meshcentral-auth",
     "syslogjson": "meshcentral-json",
-    "syslogtcp": "localhost:514",
+    "_syslogtcp": "localhost:514",
     "_webrtcConfig": {
       "iceServers": [
         { "urls": "stun:stun.cloudflare.com:3478" },
@@ -206,11 +206,11 @@
       "_hidePowerTimeline": true,
       "showNotesPanel": true,
       "_userSessionsSort": "Username",
-      "_newAccounts": true,
+      "newAccounts": true,
       "_newAccountsUserGroups": [ "ugrp//xxxxxxxxxxxxxxxxx" ],
       "manageAllDeviceGroups": [ "admin" ],
       "userNameIsEmail": true,
-      "newAccountEmailDomains": [ "sample.com" ],
+      "_newAccountEmailDomains": [ "sample.com" ],
       "_newAccountsRights": [ "nonewgroups", "notools" ],
       "_welcomeText": "Sample Text on Login Page.",
       "_welcomePicture": "mainwelcome.jpg",
@@ -674,6 +674,7 @@
     }
   }
 }
+
 
 
 
