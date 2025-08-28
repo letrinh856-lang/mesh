@@ -229,7 +229,7 @@
       "agentSelfGuestSharing": {
         "expire": 120
       },
-      "certUrl": "https://192.168.2.106:443/",
+      "certUrl": "https://mesh-u9n8.onrender.com/",
       "_altMessenging": [
         {
           "name": "Jitsi",
@@ -675,4 +675,5 @@
     }
   }
 }
+
 
