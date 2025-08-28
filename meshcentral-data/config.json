@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/Ylianst/MeshCentral/master/meshcentral-config-schema.json",
   "__comment__": "This is a sample advanced configuration file, all values and sections that start with underscore (_) are ignored. Edit a section and remove the _ in front of the name. Refer to the user's guide for details.",
   "settings": {
-    "cert": "localhost",
+    "cert": "https://mesh-u9n8.onrender.com",
     "_SQLite3": true,
     "_acebase": { "_sponsor": true },
     "_mongoDb": "mongodb://127.0.0.1:27017",
@@ -148,8 +148,8 @@
     "_redirects": {
       "meshcommander": "https://www.meshcommander.com/"
     },
-    "__maxInvalidLogin": "Time in minutes, max amount of bad logins from a source IP in the time before logins are rejected.",
-    "_maxInvalidLogin": {
+    "maxInvalidLogin": "Time in minutes, max amount of bad logins from a source IP in the time before logins are rejected.",
+    "maxInvalidLogin": {
       "time": 10,
       "count": 10,
       "coolofftime": 10
@@ -160,7 +160,7 @@
       "count": 10,
       "coolofftime": 10
     },
-    "_watchDog": {
+    "watchDog": {
       "interval": 100,
       "timeout": 400
     },
@@ -675,3 +675,4 @@
     }
   }
 }
+
