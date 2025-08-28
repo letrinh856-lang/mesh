@@ -95,10 +95,10 @@
     "tlsOffload": "127.0.0.1,::1",
     "trustedProxy": "127.0.0.1,::1",
     "_mpsPort": 44330,
-    "_mpsPortBind": "127.0.0.1",
-    "_mpsAliasPort": 4433,
-    "_mpsAliasHost": "mps.mydomain.com",
-    "_mpsTlsOffload": true,
+    "mpsPortBind": "127.0.0.1",
+    "mpsAliasPort": 4433,
+    "mpsAliasHost": "https://mesh-u9n8.onrender.com",
+    "mpsTlsOffload": true,
     "_mpsHighSecurity": true,
     "_no2FactorAuth": true,
     "_lockAgentDownload": true, 
@@ -675,5 +675,6 @@
     }
   }
 }
+
 
 
