@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "sudo setcap 'cap_net_bind_service=+ep' `which node` ;nodemon node_modules/meshcentral --redirport 443"
+    "start": "nodemon node_modules/meshcentral --redirport 443"
   },
   "dependencies": {
     "express": "^4.21.2",
