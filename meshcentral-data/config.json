@@ -2,7 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/Ylianst/MeshCentral/master/meshcentral-config-schema.json",
   "__comment__": "This is a sample advanced configuration file, all values and sections that start with underscore (_) are ignored. Edit a section and remove the _ in front of the name. Refer to the user's guide for details.",
   "settings": {
-    "cert": "https://mesh-u9n8.onrender.com",
     "_SQLite3": true,
     "_acebase": { "_sponsor": true },
     "_mongoDb": "mongodb://127.0.0.1:27017",
@@ -70,7 +69,7 @@
     "_noAgentUpdate": 1,
     "agentUpdateSystem": 1,
     "_temporaryAgentUpdate": false,
-    "amtScanner": true,
+    "_amtScanner": true,
     "meshScanner": true,
     "_meshErrorLogPath": "c:\\tmp",
     "_npmPath": "c:\\npm.exe",
@@ -175,7 +174,7 @@
       "url": "http://localhost:8080",
       "apiKey": "BOUNCER_API_KEY"
     },
-    "_plugins": { "enabled": true }
+    "plugins": { "enabled": true }
   },
   "_domaindefaults": {
     "__comment__": "Any settings in this section is used as default setting for all domains",
@@ -244,7 +243,7 @@
           "type": "user"
         }
       ],
-      "deviceMeshRouterLinks": {
+      "_deviceMeshRouterLinks": {
         "rdp": true,
         "ssh": true,
         "scp": true,
@@ -434,7 +433,7 @@
           }
         }
       },
-      "amtManager": {
+      "_amtManager": {
         "adminAccounts": [
           {
             "user": "admin",
@@ -675,6 +674,7 @@
     }
   }
 }
+
 
 
 
