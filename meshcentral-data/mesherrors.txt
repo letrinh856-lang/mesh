@@ -1,0 +1,130 @@
+-------- 8/28/2025, 5:18:30 PM ---- 1.1.49 --------
+
+node:fs:562
+  return binding.open(
+                 ^
+
+Error: ENOENT: no such file or directory, open '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+    at Object.openSync (node:fs:562:18)
+    at Object.readFileSync (node:fs:446:35)
+    at obj.loadIntelAmtAcmCerts (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:191:66)
+    at CreateMeshCentralServer.obj.StartEx3 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1792:39)
+    at /workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1739:21
+    at obj.GetMeshServerCertificate (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:1095:38)
+    at CreateMeshCentralServer.obj.StartEx2 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1736:35)
+    at Server.<anonymous> (/workspaces/codespaces-express/node_modules/meshcentral/redirserver.js:146:13)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+}
+
+Node.js v22.15.0
+
+
+-------- 8/28/2025, 5:18:36 PM ---- 1.1.49 --------
+
+node:fs:562
+  return binding.open(
+                 ^
+
+Error: ENOENT: no such file or directory, open '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+    at Object.openSync (node:fs:562:18)
+    at Object.readFileSync (node:fs:446:35)
+    at obj.loadIntelAmtAcmCerts (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:191:66)
+    at CreateMeshCentralServer.obj.StartEx3 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1792:39)
+    at /workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1739:21
+    at obj.GetMeshServerCertificate (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:1095:38)
+    at CreateMeshCentralServer.obj.StartEx2 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1736:35)
+    at Server.<anonymous> (/workspaces/codespaces-express/node_modules/meshcentral/redirserver.js:146:13)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+}
+
+Node.js v22.15.0
+
+
+-------- 8/28/2025, 5:18:41 PM ---- 1.1.49 --------
+
+node:fs:562
+  return binding.open(
+                 ^
+
+Error: ENOENT: no such file or directory, open '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+    at Object.openSync (node:fs:562:18)
+    at Object.readFileSync (node:fs:446:35)
+    at obj.loadIntelAmtAcmCerts (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:191:66)
+    at CreateMeshCentralServer.obj.StartEx3 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1792:39)
+    at /workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1739:21
+    at obj.GetMeshServerCertificate (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:1095:38)
+    at CreateMeshCentralServer.obj.StartEx2 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1736:35)
+    at Server.<anonymous> (/workspaces/codespaces-express/node_modules/meshcentral/redirserver.js:146:13)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+}
+
+Node.js v22.15.0
+
+
+-------- 8/28/2025, 5:19:04 PM ---- 1.1.49 --------
+
+node:fs:562
+  return binding.open(
+                 ^
+
+Error: ENOENT: no such file or directory, open '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+    at Object.openSync (node:fs:562:18)
+    at Object.readFileSync (node:fs:446:35)
+    at obj.loadIntelAmtAcmCerts (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:191:66)
+    at CreateMeshCentralServer.obj.StartEx3 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1792:39)
+    at /workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1739:21
+    at obj.GetMeshServerCertificate (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:1095:38)
+    at CreateMeshCentralServer.obj.StartEx2 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1736:35)
+    at Server.<anonymous> (/workspaces/codespaces-express/node_modules/meshcentral/redirserver.js:146:13)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+}
+
+Node.js v22.15.0
+
+
+-------- 8/28/2025, 5:19:32 PM ---- 1.1.49 --------
+
+node:fs:562
+  return binding.open(
+                 ^
+
+Error: ENOENT: no such file or directory, open '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+    at Object.openSync (node:fs:562:18)
+    at Object.readFileSync (node:fs:446:35)
+    at obj.loadIntelAmtAcmCerts (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:191:66)
+    at CreateMeshCentralServer.obj.StartEx3 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1792:39)
+    at /workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1739:21
+    at obj.GetMeshServerCertificate (/workspaces/codespaces-express/node_modules/meshcentral/certoperations.js:1095:38)
+    at CreateMeshCentralServer.obj.StartEx2 (/workspaces/codespaces-express/node_modules/meshcentral/meshcentral.js:1736:35)
+    at Server.<anonymous> (/workspaces/codespaces-express/node_modules/meshcentral/redirserver.js:146:13)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/workspaces/codespaces-express/meshcentral-data/amtacm-leafcert.key'
+}
+
+Node.js v22.15.0
+
+

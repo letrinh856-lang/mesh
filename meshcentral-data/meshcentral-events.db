@@ -1,0 +1,14 @@
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399209014},"ids":["*"],"_id":"6XbjFM9eiaArtjmu"}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399167093},"ids":["*"],"_id":"CPk2PDZqu6xC2nz1"}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399212218},"ids":["*"],"_id":"IvltmO3dnKcR0ylZ"}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399179657},"ids":["*"],"_id":"RsGeo8gqkb70YwqH"}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399216303},"ids":["*"],"_id":"cZFAWxFwJ34d1ywR"}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399165068},"ids":["*"],"_id":"rAXCvpwDmksD95fk"}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756399148333},"ids":["*"],"_id":"v3mgpJ9VY160MmlX"}
+{"$$indexCreated":{"fieldName":"ids","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"nodeid","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"time","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"ids"}}
+{"$$indexCreated":{"fieldName":"nodeid","sparse":true}}
+{"$$indexCreated":{"fieldName":"time","expireAfterSeconds":1728000}}
+{"etype":"server","action":"started","msg":"Server started","time":{"$$date":1756401629378},"ids":["*"],"_id":"nw0P1Rd5f4SExInr"}

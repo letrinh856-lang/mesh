@@ -1,0 +1,72 @@
+---- Log start at 8/28/2025, 5:18:30 PM ----
+5:18:30 PM - main: Core module windows-amt is 640234 bytes.
+5:18:30 PM - main: Core module linux-amt is 581341 bytes.
+5:18:30 PM - main: Core module linux-noamt is 480805 bytes.
+5:18:30 PM - main: Core module windows-recovery is 137782 bytes.
+5:18:30 PM - main: Core module linux-recovery is 82170 bytes.
+5:18:30 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:18:30 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:18:30 PM - main: Core module windows-tiny is 6305 bytes.
+5:18:30 PM - main: Core module linux-tiny is 6305 bytes.
+---- Log start at 8/28/2025, 5:18:36 PM ----
+5:18:36 PM - main: Core module windows-amt is 640234 bytes.
+5:18:36 PM - main: Core module linux-amt is 581341 bytes.
+5:18:36 PM - main: Core module linux-noamt is 480805 bytes.
+5:18:36 PM - main: Core module windows-recovery is 137782 bytes.
+5:18:36 PM - main: Core module linux-recovery is 82170 bytes.
+5:18:36 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:18:36 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:18:36 PM - main: Core module windows-tiny is 6305 bytes.
+5:18:36 PM - main: Core module linux-tiny is 6305 bytes.
+---- Log start at 8/28/2025, 5:18:41 PM ----
+5:18:41 PM - main: Core module windows-amt is 640234 bytes.
+5:18:41 PM - main: Core module linux-amt is 581341 bytes.
+5:18:41 PM - main: Core module linux-noamt is 480805 bytes.
+5:18:41 PM - main: Core module windows-recovery is 137782 bytes.
+5:18:41 PM - main: Core module linux-recovery is 82170 bytes.
+5:18:41 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:18:41 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:18:41 PM - main: Core module windows-tiny is 6305 bytes.
+5:18:41 PM - main: Core module linux-tiny is 6305 bytes.
+---- Log start at 8/28/2025, 5:19:04 PM ----
+5:19:04 PM - main: Core module windows-amt is 640234 bytes.
+5:19:04 PM - main: Core module linux-amt is 581341 bytes.
+5:19:04 PM - main: Core module linux-noamt is 480805 bytes.
+5:19:04 PM - main: Core module windows-recovery is 137782 bytes.
+5:19:04 PM - main: Core module linux-recovery is 82170 bytes.
+5:19:04 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:19:04 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:19:04 PM - main: Core module windows-tiny is 6305 bytes.
+5:19:04 PM - main: Core module linux-tiny is 6305 bytes.
+---- Log start at 8/28/2025, 5:19:32 PM ----
+5:19:32 PM - main: Core module windows-amt is 640234 bytes.
+5:19:32 PM - main: Core module linux-amt is 581341 bytes.
+5:19:32 PM - main: Core module linux-noamt is 480805 bytes.
+5:19:32 PM - main: Core module windows-recovery is 137782 bytes.
+5:19:32 PM - main: Core module linux-recovery is 82170 bytes.
+5:19:32 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:19:32 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:19:32 PM - main: Core module windows-tiny is 6305 bytes.
+5:19:32 PM - main: Core module linux-tiny is 6305 bytes.
+---- Log start at 8/28/2025, 5:19:47 PM ----
+5:19:47 PM - main: Core module windows-amt is 640234 bytes.
+5:19:47 PM - main: Core module linux-amt is 581341 bytes.
+5:19:47 PM - main: Core module linux-noamt is 480805 bytes.
+5:19:47 PM - main: Core module windows-recovery is 137782 bytes.
+5:19:47 PM - main: Core module linux-recovery is 82170 bytes.
+5:19:47 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:19:47 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:19:47 PM - main: Core module windows-tiny is 6305 bytes.
+5:19:47 PM - main: Core module linux-tiny is 6305 bytes.
+---- Log start at 8/28/2025, 5:20:26 PM ----
+5:20:26 PM - main: Core module windows-amt is 640234 bytes.
+5:20:26 PM - main: Core module linux-amt is 581341 bytes.
+5:20:26 PM - main: Core module linux-noamt is 480805 bytes.
+5:20:26 PM - main: Core module windows-recovery is 137782 bytes.
+5:20:26 PM - main: Core module linux-recovery is 82170 bytes.
+5:20:26 PM - main: Core module windows-agentrecovery is 61977 bytes.
+5:20:26 PM - main: Core module linux-agentrecovery is 6365 bytes.
+5:20:26 PM - main: Core module windows-tiny is 6305 bytes.
+5:20:26 PM - main: Core module linux-tiny is 6305 bytes.
+5:20:29 PM - cert: loadCertificate() - Loading certificate from 192.168.2.106:443, Hostname: localhost...
+5:20:29 PM - main: Server started

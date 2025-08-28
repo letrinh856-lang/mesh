@@ -1,0 +1,16 @@
+{"_id":"DatabaseIdentifier","value":"d1d89c9400da829a2014713fbfc13b7766ae14371c990077fc44571ca6ccebc9297bc9302d7f30ed031b97e4d136868d"}
+{"_id":"InvitationLinkEncryptionKey","key":"7de709d2a6a02daaa05b6fd1ba26e8a827f57f47bf5d30e03aeef718ae06081097f01fb365336fb6dd26d02acc51e360b26533920c390a2b8d40fe937c0a3bd1ff54358d42d2e5b45ffd43dd3e463112","time":1756399148336}
+{"_id":"LoginCookieEncryptionKey","key":"a99dc307448e568521ca3abe5628f886f7e1be164171d2490f7c2d5b02798df8e5313d0ca615e2d715cd3c58c29f1a74b83d26b5b2d563cf3a39ecf514a0a59782977e942419331fafbe9028b93e697e","time":1756399148336}
+{"_id":"SchemaVersion","value":2}
+{"_id":"dbconfig","version":1,"amtWsEventSecret":"f2651707cea0ccec6a10bc0b6b36671d1affd4de2abd1fffd44eb56c7959016b"}
+{"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"domain","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"meshid","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"nodeid","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"email","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"type"}}
+{"$$indexCreated":{"fieldName":"domain"}}
+{"$$indexCreated":{"fieldName":"meshid","sparse":true}}
+{"$$indexCreated":{"fieldName":"nodeid","sparse":true}}
+{"$$indexCreated":{"fieldName":"email","sparse":true}}
+{"_id":"SchemaVersion","value":2}
